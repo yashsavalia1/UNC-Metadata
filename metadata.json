@@ -1,7 +1,7 @@
 {
     "name": "Udon Noodle Coin",
     "symbol": "UNC",
-    "uri": "",
+    "uri": "https://raw.githubusercontent.com/yashsavalia1/UNC-Metadata/master/metadata.json",
     "sellerFeeBasisPoints": 0,
     "creators": null,
     "collection": null,
